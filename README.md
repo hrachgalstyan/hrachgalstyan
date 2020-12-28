@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+<a href="https://github.com/hrachgalstyan/vFruits_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/hrachgalstyan/vFruits_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&theme=vision-friendly-dark" />
+</a>
+
+
+<br></br>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrach-galstyan-a721581b5/), [Facebook](https://www.facebook.com/hrachgalstyann/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/KALIMI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&theme=dark" />
+</a>
