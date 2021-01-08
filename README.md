@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/hrachgalstyan/vFruits_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&theme=vision-friendly-dark" />
 </a>
+<a href="https://github.com/hrachgalstyan/vFruits_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/hrachgalstyan/vFruits_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&theme=vision-friendly-dark" />
+</a>
 
 
 <br></br>
