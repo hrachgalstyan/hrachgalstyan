@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nikoghosyan.me)](https://hrachgalstyan.com)
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrach-galstyan-a721581b5/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrach-galstyan-a721581b5/)](https://www.linkedin.com/in/hrach-galstyan-a721581b5/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrachgalstyann@gmail.com)](mailto:hrachgalstyann@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hrachgalstyann/)](https://instagram.com/hrachgalstyann) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hrachgalstyann)](https://www.facebook.com/hrachgalstyann)
@@ -31,19 +31,19 @@
 </div>
 <p align="center">
   <a href="https://github.com/hrachgalstyann">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyann&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 ## 🗂️ Highlight Projects
 <div align="center">
 <a href="https://github.com/hrachgalstyan/vFruits_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyann&repo=vFruits_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_api" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_api" />
 </a>
 
 <a href="https://github.com/hrachgalstyan/vFruits_admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyann&repo=vFruits_admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_admin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_admin" />
 </a>
 </div>
 
