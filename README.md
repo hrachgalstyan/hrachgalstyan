@@ -30,21 +30,20 @@
   </h4>
 </div>
 <p align="center">
-  <a href="https://github.com/hrachgalstyann">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/hrachgalstyann" width="100%" style="display:flex">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 ## 🗂️ Highlight Projects
-<div align="center">
-<a href="https://github.com/hrachgalstyan/vFruits_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_api" />
-</a>
-
-<a href="https://github.com/hrachgalstyan/vFruits_admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_admin" />
-</a>
+<div align="center" style="display:flex; flex-wrap:no-wrap">
+  <a href="https://github.com/hrachgalstyan/vFruits_api" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_api"   />
+  </a>
+  <a href="https://github.com/hrachgalstyan/vFruits_admin" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_admin" />
+  </a>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
