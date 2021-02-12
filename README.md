@@ -38,8 +38,8 @@
 
 ## 🗂️ Highlight Projects
 <div align="center" style="display:flex; flex-wrap:no-wrap">
-  <a href="https://github.com/hrachgalstyan/vFruits_api" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_api"   />
+  <a href="https://github.com/hrachgalstyan/sequelizecli" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=sequelizecli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="sequelizecli"   />
   </a>
   <a href="https://github.com/hrachgalstyan/vFruits_admin" max-width="48%">
     <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=vFruits_admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="vFruits_admin" />
