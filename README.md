@@ -82,5 +82,3 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum&logoColor=FFA518)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)
