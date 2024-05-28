@@ -39,10 +39,16 @@
 ## 🗂️ Highlight Projects
 <div align="center" style="display:flex; flex-wrap:no-wrap">
   <a href="https://github.com/hrachgalstyan/postgres-rest" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=sequelizecli&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="sequelizecli"   />
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=postgres-rest&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="postgres-rest"   />
   </a>
-  <a href="https://github.com/hrachgalstyan/natours" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=natours&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="natours" />
+  <a href="https://github.com/hrachgalstyan/nest-rabbitMQ-math" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=nest-rabbitMQ-math&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="nest-rabbitMQ-math" />
+  </a>
+  <a href="https://github.com/hrachgalstyan/express-sequelize" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=express-sequelize&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="express-sequelize" />
+  </a>
+  <a href="https://github.com/hrachgalstyan/nestjs" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=nestjs&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="nestjs" />
   </a>
 </div>
 
