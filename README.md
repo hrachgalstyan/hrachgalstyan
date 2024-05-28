@@ -1,20 +1,22 @@
-<div align="center">
-  <h2> 
-    Hi, there! I am Hrach <img src="https://github.com/hrachgalstyan/hrachgalstyan/blob/main/hi.gif" width="30px">
-  </h2>
-</div>
+### Hi there <img src="https://github.com/hrachgalstyan/hrachgalstyan/blob/main/hi.gif" width="30px">
 
-### 👨🏻‍💻 &nbsp;About Me
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nikoghosyan.me)](https://hrachgalstyan.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrach-galstyan-a721581b5/)](https://www.linkedin.com/in/hrach-galstyan-a721581b5/) 
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hrach-galstyan-a721581b5/)](https://www.linkedin.com/in/hrach-galstyan-a721581b5/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrachgalstyann@gmail.com)](mailto:hrachgalstyann@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hrachgalstyann/)](https://instagram.com/hrachgalstyann) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/hrachgalstyann)](https://www.facebook.com/hrachgalstyann)
 
+## 👨🏻‍💻 About Me
+
+Full Stack Software Engineer with 5+ years of experience in building and maintaining high-quality web applications. Proven ability to design, develop, test, and deploy applications using a variety of technologies, including:  <br/>
+
+º Backend: Node.js, Nest.js, Express, Sequelize, TypeORM, Prisma, Mongoose, AWS, Docker <br/>
+º Frontend: React, TypeScript, GraphQL, REST APIs <br/>
+º DevOps: AWS, AZURE, GCP, GitHub Actions, GitLab Pipelines, Heroku, Vercel, Netlify <br/>
+º Other: Pinecone, Langchain, Firebase, OpenAI, ElasticSearch, Kafka, RabbitMQ  <br/>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
@@ -24,20 +26,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div >
-  <h4 align="center"> 
-    🏃 Happy Coding 🏃 
-  </h4>
-</div>
-<p align="center">
-  <a href="https://github.com/hrachgalstyann" width="100%" style="display:flex">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+[![Hrach's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrachgalstyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🗂️ Highlight Projects
-<div align="center" style="display:flex; flex-wrap:no-wrap">
+<br/>
+
+<a href="https://github.com/hrachgalstyann" width="100%" style="display:flex">
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+
+## 🗂️ Featured projects
+<div align="center" style="display:flex; justify-content: space-around; flex-wrap:no-wrap">
   <a href="https://github.com/hrachgalstyan/postgres-rest" max-width="48%">
     <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=postgres-rest&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="postgres-rest"   />
   </a>
@@ -69,6 +69,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 #### ✨ Backend : <br />
 
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![Nestjs](https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=4479A1)
