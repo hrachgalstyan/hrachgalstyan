@@ -25,7 +25,7 @@ Full Stack Software Engineer with 5+ years of experience in building and maintai
 
 <br/>
 
-<a href="https://github.com/hrachgalstyann" width="100%" style="display:flex">
+<a href="https://github.com/hrachgalstyan" width="100%" style="display:flex">
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
