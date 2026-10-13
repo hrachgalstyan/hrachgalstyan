@@ -1,0 +1,83 @@
+[
+  {
+    "id": "sports-picks",
+    "title": "Real-time Sports Pick'em Platform",
+    "domain": "Sports · Fantasy / Pick'em · Consumer app",
+    "tagline": "Live player-stat ingestion, entry settlement and payouts for a high-traffic fantasy sports product.",
+    "accent": "#70a5fd",
+    "stack": ["NestJS", "TypeScript", "PostgreSQL", "Redis", "Kafka", "AWS"],
+    "role": "Backend / Full Stack Engineer",
+    "problem": "Fans build pick'em entries on live games. Stats arrive from multiple third-party sports data providers with different IDs and formats, and entries must settle correctly and fast once games finish.",
+    "built": [
+      "Ingestion services that normalize player, team and game data across sports data providers",
+      "Cross-provider team & player mapping so every stat lands on the right entry",
+      "Event-driven settlement pipeline that grades entries as games go final",
+      "Internal admin tooling for ops to monitor and correct data"
+    ],
+    "diagram": "flowchart LR\n  P[Sports data providers] --> I[Ingestion & mapping]\n  I --> K[(Kafka)]\n  K --> S[Settlement service]\n  S --> DB[(PostgreSQL)]\n  A[Mobile & web apps] --> API[NestJS API] --> DB\n  API --> R[(Redis cache)]",
+    "impact": [
+      "Reliable, automated settlement instead of manual grading",
+      "Provider-agnostic data layer, so adding a new sport or provider is config, not a rewrite"
+    ]
+  },
+  {
+    "id": "card-packs",
+    "title": "Collectible Card Pack Platform",
+    "domain": "E-commerce · Collectibles · Gamification",
+    "tagline": "Digital pack openings backed by real, physical trading cards, from inventory to the shipping queue.",
+    "accent": "#bb9af7",
+    "stack": ["Node.js", "React", "TypeScript", "PostgreSQL", "AWS", "Docker"],
+    "role": "Full Stack Engineer",
+    "problem": "Users buy and open packs online, but every card they pull is a real physical item that has to be tracked, valued and eventually shipped.",
+    "built": [
+      "Pack-opening flow with server-side, auditable outcomes",
+      "Inventory model linking each digital pull to a physical card",
+      "Back-office screens for inventory, packs and ship queues"
+    ],
+    "diagram": "flowchart LR\n  U[User] --> W[React app] --> API[Node API]\n  API --> O[Pack-open engine]\n  O --> INV[(Inventory DB)]\n  INV --> SHIP[Ship queue]\n  ADM[Admin panel] --> API",
+    "impact": [
+      "A fun, instant digital experience on top of a real-world supply chain",
+      "Full audit trail from pack purchase to shipped card"
+    ]
+  },
+  {
+    "id": "ai-assistant",
+    "title": "AI Knowledge Assistant (RAG)",
+    "domain": "AI · LLM apps · Internal tooling",
+    "tagline": "A chat assistant that answers questions from private company documents, with sources.",
+    "accent": "#9ece6a",
+    "stack": ["OpenAI", "LangChain", "Pinecone", "NestJS", "React"],
+    "role": "Full Stack / AI Engineer",
+    "problem": "Teams lose time hunting through docs, wikis and PDFs for answers that already exist somewhere.",
+    "built": [
+      "Document ingestion & chunking pipeline into a Pinecone vector index",
+      "Retrieval-augmented generation with LangChain + OpenAI, returning cited sources",
+      "Chat UI with streaming answers"
+    ],
+    "diagram": "flowchart LR\n  D[Docs & PDFs] --> C[Chunk + embed] --> V[(Pinecone)]\n  Q[User question] --> R[Retriever] --> V\n  R --> L[OpenAI LLM] --> A[Answer + sources]",
+    "impact": [
+      "Answers in seconds instead of searching manually",
+      "Grounded responses with links back to the original source"
+    ]
+  },
+  {
+    "id": "event-microservices",
+    "title": "Event-driven Microservices Backbone",
+    "domain": "Platform · Microservices · Messaging",
+    "tagline": "Splitting a monolith into independently deployable services talking over queues.",
+    "accent": "#ff9e64",
+    "stack": ["NestJS", "RabbitMQ", "Kafka", "PostgreSQL", "Docker", "GitHub Actions"],
+    "role": "Backend Engineer",
+    "problem": "A growing monolith made every release risky and every slow job block user requests.",
+    "built": [
+      "Service boundaries and message contracts over RabbitMQ / Kafka",
+      "Background workers for heavy jobs with retries and dead-letter queues",
+      "Dockerized services with CI/CD pipelines"
+    ],
+    "diagram": "flowchart LR\n  GW[API gateway] --> S1[Orders svc]\n  GW --> S2[Users svc]\n  S1 -- events --> MQ[(RabbitMQ / Kafka)]\n  MQ --> W[Workers]\n  MQ --> S3[Notifications svc]",
+    "impact": [
+      "Independent deploys per service",
+      "Slow work moved off the request path"
+    ]
+  }
+]
